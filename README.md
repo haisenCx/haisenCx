@@ -1,7 +1,6 @@
 ### Hello World 👋
 My Visitor
-![Profile views](https://gpvc.arturio.dev/haisenCx
-)
+![Profile views](https://gpvc.arturio.dev/haisenCx)
 <!--
 **haisenCx/haisenCx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
